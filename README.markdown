@@ -9,7 +9,7 @@ by Xing Zhou
 Introduction
 ------------
 
-Chess is my attempt at writing a chess bot in ANSI C using techniques such as BitBoards, Alpha-Beta Pruning, etc.  This project is inspired by the chess program I had to complete for an assignment for my college computer science course.  The files are accessible from [my other repository][mr], though it only contains files for the searching algorithm because I am not entitled to publish files for the board representation, engine, and interfaces that connects to a chess server run by my professor.
+Chess is my attempt at writing a chess bot in ANSI C using techniques such as BitBoards, Alpha-Beta Pruning, etc.  This project is inspired by the chess program I had to complete for an assignment for my college computer science course.  The files are accessible from [my other repository] [mr], though it only contains files for the searching algorithm because I am not entitled to publish files for the board representation, engine, and interfaces that connects to a chess server run by my professor.
 
 	[mr]: http://www.github.com/xingzhou/15211-Chess
 	
