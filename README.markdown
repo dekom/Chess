@@ -23,8 +23,6 @@ Implementation Details
 
 While researching for the chess I've done in class, I came across many algorithms that simply fascinated me, though the time limit prohibited me from implementing all of the algorithms.  Therefore, I'm going to list the algorithms and such in hopes that I could test all of them.
 
-Algorithms:
-
 - MiniMax
 - NegaMax
 - NegaMax AlphaBeta
